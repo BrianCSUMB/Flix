@@ -40,7 +40,7 @@ Describe any challenges encountered while building the app.` Paste the README te
 
 ### App Walkthrough GIF
 
-![](https://github.com/BrianCSUMB/iOS/blob/main/iOS_flix_assets/Flix.gif)
+<img src= "https://github.com/BrianCSUMB/iOS/blob/main/iOS_flix_assets/Flix.gif" width=250><br>
 
 ### Notes
 Describe any challenges encountered while building the app.
